@@ -1,6 +1,6 @@
 name: Hansi
 favicon: null
-layout_spectrum: 0.3679174988064915
+layout_spectrum: 1
 typography_spectrum: 0.9889327068813145
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#5C6B73'
     - '#253237'
   brandStrength: 0.6764596058055758
-  lightness: 0.09475857019424438
+  lightness: 0.75
   saturation: 0.684745964827016
   rhythmicContrast: 0.24680451094172895
 purpose: []
