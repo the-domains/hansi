@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Hansi]]></title>
         <description><![CDATA[Hansi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hansi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 05:45:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Dec 2015 05:56:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hansi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://hansedwardhammondsdotcom.files.wordpress.com/2014/11/dsc6886.jpg?w=722&h=481">]]></description>
+            <link>https://thegrid.ai/hansi/1d228642-30cf-4588-b35e-7c495b627595/index.html</link>
+            <guid isPermaLink="false">1d228642-30cf-4588-b35e-7c495b627595</guid>
+            <pubDate>Sun, 27 Dec 2015 05:56:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test]]></title>
             <description><![CDATA[<article><h1>Test</h1><p>Trying this out</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95f2e6122b00fcda1afed99db87addedf725b6e4.jpg"></article>]]></description>
-            <link>undefinedtest/index.html</link>
+            <link>https://thegrid.ai/hansi/test/index.html</link>
             <guid isPermaLink="false">a511b5bf-0a5c-4427-96d0-5695c7c0f909</guid>
             <pubDate>Sun, 27 Dec 2015 05:45:24 GMT</pubDate>
         </item>
